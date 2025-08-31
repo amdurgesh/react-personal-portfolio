@@ -35,15 +35,15 @@ A modern and responsive React + Vite + TailwindCSS portfolio website showcasing 
 ## 📂 Folder Structure
 
 portfolio/
- ├── public/         
- ├── src/
- │   ├── assets/     
- │   ├── components/ 
- │   ├── App.jsx     
- │   └── main.jsx    
- ├── index.html
- ├── vite.config.js
- └── package.json
+├── public/ 
+├── src/
+│ ├── assets/ 
+│ ├── components/
+│ ├── App.jsx 
+│ └── main.jsx 
+├── index.html 
+├── vite.config.js 
+└── package.json 
 
  ## 📬 Contact
 - **🌐 Portfolio:** *https://amdurgesh.me/*

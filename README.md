@@ -31,5 +31,5 @@ A modern and responsive React + Vite + TailwindCSS portfolio website showcasing 
 
  ## 📬 Contact
 - **🌐 Portfolio:** *https://amdurgesh.me/*
-- **💼 LinkedIn:** *linkedin.com/in/amdurgesh/*
+- **💼 LinkedIn:** *https://www.linkedin.com/in/amdurgesh/*
 - **📧 Email:** *paldurgesh191@gmail.com*

@@ -1,6 +1,8 @@
 # 🌐 Personal Portfolio
 A modern and responsive React + Vite + TailwindCSS portfolio website showcasing my skills, projects, and contact details.
 
+---
+
 ## 🚀 Features
 - ⚡ **Fast & Optimized** with Vite  
 - 🎨 **TailwindCSS Styling** for a clean, modern UI  
@@ -12,10 +14,14 @@ A modern and responsive React + Vite + TailwindCSS portfolio website showcasing 
   - **Projects** – My work with live demos & GitHub links  
   - **Contact** – Contact form & social links
 
+---
+
 ## 🛠️ Tech Stack
 - **Frontend:** React + Vite
 - **Tools:** Git, GitHub, VS Code, Netlify,
 - **Deployment:** GitHub Pages & Netlify (Custom Domain)
+
+---
 
 ## 🧑‍💻 Skills
 ### 🌟 Frontend
@@ -29,7 +35,9 @@ A modern and responsive React + Vite + TailwindCSS portfolio website showcasing 
 - VS Code
 - Netlify / GitHub Pages
 
+---
+
  ## 📬 Contact
-- **🌐 Portfolio:** *https://amdurgesh.me/*
-- **💼 LinkedIn:** *https://www.linkedin.com/in/amdurgesh/*
-- **📧 Email:** *paldurgesh191@gmail.com*
+- **🌐 Portfolio:** *[link](https://amdurgesh.me/)*
+- **💼 LinkedIn:** *[Profile](https://www.linkedin.com/in/amdurgesh/)*
+- **📧 Email:** *[Say Hello](paldurgesh191@gmail.com)*

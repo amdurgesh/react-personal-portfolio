@@ -29,22 +29,6 @@ A modern and responsive React + Vite + TailwindCSS portfolio website showcasing 
 - VS Code
 - Netlify / GitHub Pages
 
-## 🌍 Live Demo
-- **🔗 Netlify (Custom Domain):** *https://amdurgesh.me/*
-
-## 📂 Folder Structure
-
-portfolio/
-├── public/ 
-├── src/
-│ ├── assets/ 
-│ ├── components/
-│ ├── App.jsx 
-│ └── main.jsx 
-├── index.html 
-├── vite.config.js 
-└── package.json 
-
  ## 📬 Contact
 - **🌐 Portfolio:** *https://amdurgesh.me/*
 - **💼 LinkedIn:** *linkedin.com/in/amdurgesh/*
